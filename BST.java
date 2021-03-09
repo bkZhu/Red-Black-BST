@@ -80,7 +80,7 @@ public class BST<K,V>{
         dfs(root,0,li);
         int lev = 0;
         for(ArrayList<K> l:li){
-            System.out.println("第"+lev+"层:");
+            System.out.println("level "+lev+" :");
             System.out.println(l.toString()+" size->"+l.size());
             lev++;
         }
