@@ -6,10 +6,9 @@ learn from Algorithms, Part I, Princeton University, Robert Sedgewick
 
 
     BST<Integer,Integer> tree = new BST<>();
-    for(int i=1;i<64;i++){
+    for(int i=1;i<64;i++)
         tree.add(i,i);
-        tree.levelOrder();
-    }
+    tree.levelOrder();
         
 level 0:
 [32] size->1
