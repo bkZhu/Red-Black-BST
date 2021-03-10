@@ -1,5 +1,5 @@
 # Red-Black-BST
-red-black tree in 80 lines
+insertion and balance of red-black tree in 80 lines
 
 learn from Algorithms, Part I, Princeton University, Robert Sedgewick
 
